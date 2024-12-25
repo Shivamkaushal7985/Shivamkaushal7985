@@ -87,8 +87,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shivam-kaushal-9532/)  
-  [![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=white&style=flat)](https://github.com/ShivamKaushal)  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/shivamkaushal02?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  
+  [![GitHub](https://img.shields.io/badge/-GitHub-333333?logo=github&logoColor=white&style=flat)](https://github.com/Shivamkaushal7985/)  
   [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:shivamkaushal5840@gmail.com)
 
 </div>
